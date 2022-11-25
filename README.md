@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝Javascript and PHP and developer, professional dedicated and ready for new technologies and challenges. I love what I do.<br><br>⚡ Sou um profissional dedicado e pronto para novas tecnologias e desafios, bom relacionamento interpessoal, com experiência em trabalho e gerenciamento em grupo, preocupado com o crescimento, pronto para desafios.<br><br>
+🤝Javascript and PHP and developer, professional dedicated and ready for new technologies and challenges. I love what I do.<br><br>⚡ Sou um profissional dedicado e pronto para novas tecnologias e desafios, bom relacionamento interpessoal, com experiência em trabalho e gerenciamento em grupo, preocupado com o crescimento, pronto para desafios.
 
 
 ## 🌐 Socials:
