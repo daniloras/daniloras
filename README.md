@@ -1,6 +1,9 @@
-# 💫 About Me:
+<img align="right" height="590em" src="https://github.com/daniloras/daniloras/assets/25010021/116b9685-02a5-4d3b-acc0-ee10a67d0ead"/>
+# 💫 Hi I'm Danilo Ramon:
 🤝Javascript and PHP and developer, professional dedicated and ready for new technologies and challenges. I love what I do.<br><br>⚡ Sou um profissional dedicado e pronto para novas tecnologias e desafios, bom relacionamento interpessoal, com experiência em trabalho e gerenciamento em grupo, preocupado com o crescimento, pronto para desafios.
 
+
+[![](https://visitcount.itsvg.in/api?id=daniloras&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danilo-ramon) 
@@ -14,8 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=daniloras&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
